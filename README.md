@@ -1,25 +1,28 @@
-# Dynatrace Overview
+# Overview
 
 This repo is a resource to Dynatrace technical partners.  The become a Dynatrace partner, complete the
 [application form](https://www.dynatrace.com/partners/#partner-form) and to pick `Technical Alliance` in the `Type of Partner` selection drop down.
 
-# Dynatrace Partner portal
+# Partner portal
 
 As a partner you can register on the [Dynatrace partner portal](https://partners.dynatrace.com) and then access addiontional resources to plan, build, and promote your integration.
 
-# Dynatrace playground
+# Dynatrace playground environment
 
 The [Dynatrace playground environment](https://wkf10640.apps.dynatrace.com/) is an environment with pre-configured applicationd and infrastructure to available to prospects, customers and partners.  
 
 If you don't have access, then [signup](https://www.dynatrace.com/signup/playground/) with just your email and you can then refer to these [getting started guides](https://github.com/dynatrace-perfclinics/dynatrace-getting-started) that compliement what is in the Dynatrace help documentation.
 
-# Dynatrace Overview
+# Reference
 
-Read [What is Dynatrace](https://docs.dynatrace.com/docs/get-started/what-is-dynatrace) help docs. 
+* [What is Dynatrace](https://docs.dynatrace.com/docs/get-started/what-is-dynatrace) 
+* [Dynatrace Documentation](https://docs.dynatrace.com)
+* [Dynatrace Managed Documentation](https://docs.dynatrace.com/managed)
+* [Dynatrace Community Examples GitHub repository](https://github.com/Dynatrace/community-examples)
 
-# How to Videos Guides
+# How to videos
 
-These vidoes complement the many other vidoes within the Dynatrace [YouTube Channel](https://www.youtube.com/@dynatrace) with some specific topics that Technical Partners often ask for.
+These videos complement the many other videos within the Dynatrace [YouTube Channel](https://www.youtube.com/@dynatrace) for specific topics that Technical Partners often ask for.
 
 | Topic | Description | Video |
 |----------|----------|----------|
