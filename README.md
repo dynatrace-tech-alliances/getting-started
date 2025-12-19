@@ -26,5 +26,6 @@ These videos complement the many other videos within the Dynatrace [YouTube Chan
 
 | Topic | Description | Video |
 |----------|----------|----------|
-| Dynatrace Log Ingest API | This video explains how to create and manage Dynatrace API access tokens, authorize them in the Swagger interface, and ingest log data into Dynatrace for querying and visualization. | [<img alt="NVIDIA End-to-End Observability" src="https://play.vidyard.com/zGqjZwP6SS4NEc2HYKGdBk.jpg?small=1&play_button=1&" width="50%">](https://share.vidyard.com/watch/zGqjZwP6SS4NEc2HYKGdBk) |
+| Dynatrace Log Ingest API | This video explains how to create and manage Dynatrace API access tokens, authorize them in the Swagger interface, and ingest log data into Dynatrace for querying and visualization. | [<img alt="NVIDIA End-to-End Observability" src="https://play.vidyard.com/zGqjZwP6SS4NEc2HYKGdBk.jpg" width="75%">](https://share.vidyard.com/watch/zGqjZwP6SS4NEc2HYKGdBk) |
+| Dynatrace DQL API | This video explains how to call the Dynatrace Query Language (DQL) API. How to create a Dynatrace Platform tokens and use them in the Swagger UI and in script is explained. | [<img alt="NVIDIA End-to-End Observability" src="https://play.vidyard.com/bmCfUP1bWh5RdPzZSuy2a9.jpg" width="75%">](https://share.vidyard.com/watch/bmCfUP1bWh5RdPzZSuy2a9) |
 
